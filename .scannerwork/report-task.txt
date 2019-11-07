@@ -1,0 +1,7 @@
+organization=mayankgaur85
+projectKey=space-game-web-mayank
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.2461
+dashboardUrl=https://sonarcloud.io/dashboard?id=space-game-web-mayank
+ceTaskId=AW5AvMaxeSkHKqI5nk4d
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW5AvMaxeSkHKqI5nk4d
